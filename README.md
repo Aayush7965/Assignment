@@ -6,7 +6,7 @@
 
 ## Screenshot 
 
-<img src="screenshots/1.png" width="270"> 
+<img src="Screenshot/1.png" width="270"> |
 
 ## Requirements
 - iOS 9.0+
